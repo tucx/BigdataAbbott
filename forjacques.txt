@@ -1,2 +1,3 @@
 Name: Chao-Cheng Tu
 favorite food: KFC
+hated food: mashroom
